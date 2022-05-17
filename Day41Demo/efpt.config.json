@@ -1,0 +1,83 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "SampleStoreContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "DataAccess",
+   "OutputPath": "DataAccess\/Models",
+   "ProjectRootNamespace": "Day41Demo",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[persons]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[production].[brands]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[production].[categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[production].[products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[production].[stocks]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[sales].[commissions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[sales].[customers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[sales].[order_items]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[sales].[orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[sales].[staffs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[sales].[stores]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[sales].[targets]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "desktop-avinash.SampleStore.dbo",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
